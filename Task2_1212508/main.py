@@ -1,5 +1,3 @@
-# Name: Qusay Taradeh , ID: 1212508, sec.: 4
-
 from queue import Queue, PriorityQueue
 
 """=====================================Times Calculation==================================================="""
